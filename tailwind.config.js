@@ -20,7 +20,7 @@ module.exports = {
         'form':'#C7B0D5',
       },
       fontFamily: {
-        'title': ['Sofia-Bold'],
+        'titlee': ['Sofia-Bold'],
         'subtitle': ['Sofia-Semibold'],
         'text': ['Sofia-Regular'],   
         'text-md': ['Sofia-Medium']    
