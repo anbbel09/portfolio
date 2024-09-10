@@ -3,7 +3,7 @@
 
   font-style: normal;
 
-  src: url('./assets/fonts/SofiaProMedium.ttf') format('truetype');
+  src: url('/assets/fonts/SofiaProMedium.ttf') format('truetype');
 }
 
 @font-face {
@@ -11,7 +11,7 @@
 
   font-style: normal;
 
-  src: url('./assets/fonts/SofiaProRegular.ttf') format('truetype');
+  src: url('/assets/fonts/SofiaProRegular.ttf') format('truetype');
 }
 
 @font-face {
@@ -19,7 +19,7 @@
 
   font-style: normal;
 
-  src: url('./assets/fonts/SofiaProSemiBold.ttf') format('truetype');
+  src: url('/assets/fonts/SofiaProSemiBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -27,7 +27,7 @@
 
   font-style: normal;
 
-  src: url('./assets/fonts/SofiaProBold.ttf') format('truetype');
+  src: url('/assets/fonts/SofiaProBold.ttf') format('truetype');
 }
 
 /*
