@@ -23,7 +23,7 @@ module.exports = {
         'title': ['Sofia-Bold'],
         'subtitle': ['Sofia-Semibold'],
         'text': ['Sofia-Regular'],   
-        'text-md': ['Sofia-Medium'],    
+        'text-md': ['Sofia-Medium']    
       },
       width: {
         '85vw': '85vw',
