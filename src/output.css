@@ -1061,8 +1061,33 @@ video {
   padding-bottom: 1.25rem;
 }
 
+.px-7 {
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
+}
+
 .pt-10 {
   padding-top: 2.5rem;
+}
+
+.pl-7 {
+  padding-left: 1.75rem;
+}
+
+.pl-10 {
+  padding-left: 2.5rem;
+}
+
+.pl-9 {
+  padding-left: 2.25rem;
+}
+
+.pl-8 {
+  padding-left: 2rem;
+}
+
+.text-left {
+  text-align: left;
 }
 
 .text-center {
